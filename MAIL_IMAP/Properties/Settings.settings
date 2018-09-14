@@ -1,0 +1,32 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MAIL_IMAP.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="IP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">imap-mail.outlook.com</Value>
+    </Setting>
+    <Setting Name="Login" Type="System.String" Scope="User">
+      <Value Profile="(Default)">zalaczniki.ocr@hotmail.com</Value>
+    </Setting>
+    <Setting Name="Haslo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dupadupadupa!</Value>
+    </Setting>
+    <Setting Name="Synch" Type="System.String" Scope="User">
+      <Value Profile="(Default)">120</Value>
+    </Setting>
+    <Setting Name="Rozszerzenia" Type="System.String" Scope="User">
+      <Value Profile="(Default)">pdf;tiff;jpg;png</Value>
+    </Setting>
+    <Setting Name="Port" Type="System.String" Scope="User">
+      <Value Profile="(Default)">993</Value>
+    </Setting>
+    <Setting Name="_12345ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\pmazurkiewicz\Desktop\zadania\12345.MDB&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.OleDb&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\pmazurkiewicz\Desktop\zadania\12345.MDB</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
